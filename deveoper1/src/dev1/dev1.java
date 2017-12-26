@@ -8,4 +8,9 @@ public void show(String s){
 	System.out.println("hello");
 
 }
+public void show1(String s){
+	System.out.println(s);
+	System.out.println("hello");
+
+}
 }
