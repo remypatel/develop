@@ -6,5 +6,6 @@ private String text;
 public void show(String s){
 	System.out.println(s);
 	System.out.println("hello");
+
 }
 }
